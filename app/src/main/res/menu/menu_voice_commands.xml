@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/enable_microphone"
+        android:icon="@drawable/icons8_microphone_30px"
+        app:showAsAction="always"
+        android:title="TODO" />
+    <item
+        android:id="@+id/voice_commands"
+        android:icon="@drawable/icons8_help_30px"
+        app:showAsAction="always"
+        android:title="TODO" />
+</menu>

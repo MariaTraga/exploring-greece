@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946754408264",
+    "project_id": "exploringgreece-f2282",
+    "storage_bucket": "exploringgreece-f2282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946754408264:android:3027869629e42b6c282d7d",
+        "android_client_info": {
+          "package_name": "com.malliaris_traga.exploringgreece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946754408264-s7675ar8ccckt3ct6rvd7uqihhs78me9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bEw8DnwjZ43ADtUyHx0ABHDwKy3OlEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946754408264-s7675ar8ccckt3ct6rvd7uqihhs78me9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
